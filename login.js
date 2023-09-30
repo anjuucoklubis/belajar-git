@@ -5,6 +5,7 @@ export default function login() {
     <div>
       login
       <text>commit login 2</text>
+      <text>commit login 3</text>
     </div>
   );
 }
