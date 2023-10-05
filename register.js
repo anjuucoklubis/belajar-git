@@ -9,6 +9,8 @@ export default function register() {
       <Text>Commit 3</Text>
       <Text>Commit 4</Text>
       <Text>Commit 5</Text>
+      <Text>Commit 6</Text>
+      <Text>Commit 7</Text>
     </View>
   )
 }
